@@ -29,3 +29,4 @@ In the testbench circuit, the following sources are connected as shown.
 DC analysis was done by taking the AC source as the component parameter and AC analysis was done from 100Hz to 1GHz. Moderate mode of transient analysis is selected. 3 responses are obtained as shown below after running the simulation.
 
 <img width="940" height="377" alt="image" src="https://github.com/user-attachments/assets/f33ffe99-936a-42a2-be44-608a60c995d8" />
+
