@@ -1,4 +1,4 @@
-# CMOS Common-Source-and Cascode Amplifier-Parametric Sweep Analysis
+# CMOS Common Source and Cascode Amplifier Parametric Sweep Analysis
 
 Parametric Sweep Analysis of Common Source Amplifier
 
